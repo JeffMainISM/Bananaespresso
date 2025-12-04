@@ -20,14 +20,10 @@ Yea well, now THIS is what i call an eyesore. Pcb is very messy. But hey, i mean
 
 # BOM
 
-4x Cherry MX Switches
-4x DSA Keycaps
-5x M3x5x4 Heatset inserts
-3x M3x16mm SHCS Bolts
-2X M3x12mm SHCS Bolts
-5x 1N4148 DO-35 Diodes.
-2x WS2812B LEDs
-1x 0.91" 128x32 OLED Display
-1x EC11 Rotary Encoder
+8x Cherry MX Switches
+8x DSA Keycaps
+4x WS2812B LEDs
 1x XIAO RP2040
-1x Case (3 printed parts, 2 laser cut parts)
+1x Case (2 printed parts)
+4xM3x16mm screws
+4xM3x5mx4mm heatset inserts
