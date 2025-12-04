@@ -1,6 +1,7 @@
 # Bananaespresso
 First time working in 3D! Same with kicad. (i used easyeda before this). It's nothing much more than a "U" shaped pad. Very basic and possibly even funnily sub-par.
 Alignment might not be done well by the mm, but hey, if it works it works!
+It doesn't do much, just 8 keys, and 4 leds, what else do you need in life, right?
 
 
 ![alt text]( https://github.com/JeffMainISM/Bananaespresso/blob/main/EX1.png "Oh")
