@@ -12,7 +12,7 @@ Not bad?
 ![alt text](https://github.com/JeffMainISM/Bananaespresso/blob/main/EX2.png)
 
 
-
+Yea well, now THIS is what i call an eyesore. Pcb is very messy. But hey, i mean i think it works.
 
 
 <img width="788" height="619" alt="image" src="https://github.com/user-attachments/assets/f71ec668-7df5-4456-8f90-3041e4897a9c" />
