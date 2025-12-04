@@ -3,4 +3,4 @@ First time working in 3D! Same with kicad. (i used easyeda before this). It's no
 Alignment might not be done well by the mm, but hey, if it works it works!
 
 
-![alt text]( "Oh")
+![alt text]( https://github.com/JeffMainISM/Bananaespresso/blob/main/EX1.png "Oh")
