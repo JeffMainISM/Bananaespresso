@@ -4,3 +4,9 @@ Alignment might not be done well by the mm, but hey, if it works it works!
 
 
 ![alt text]( https://github.com/JeffMainISM/Bananaespresso/blob/main/EX1.png "Oh")
+
+
+Not bad?
+
+
+![alt text](https://github.com/JeffMainISM/Bananaespresso/blob/main/EX2.png)
