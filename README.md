@@ -27,3 +27,5 @@ Yea well, now THIS is what i call an eyesore. Pcb is very messy. But hey, i mean
 1x Case (2 printed parts)
 4xM3x16mm screws
 4xM3x5mx4mm heatset inserts
+
+![alt text](https://github.com/JeffMainISM/Bananaespresso/blob/main/CASE1.png)
