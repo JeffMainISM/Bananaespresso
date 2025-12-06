@@ -24,7 +24,7 @@ Not bad, right?
 The PCB is, uh… *a bit of an eyesore*.  
 Messy? Yes. Functional? Also yes. And that’s what matters.
 
-<img width="788" height="619" alt="PCB" src="https://github.com/user-attachments/assets/f71ec668-7df5-4456-8f90-3041e4897a9c" />
+![Pcb](https://github.com/JeffMainISM/Bananaespresso/blob/main/Pictures/PCBEX.png)
 
 ---
 
