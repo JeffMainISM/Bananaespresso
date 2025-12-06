@@ -20,13 +20,15 @@ Yea well, now THIS is what i call an eyesore. Pcb is very messy. But hey, i mean
 
 # BOM
 
-8x Cherry MX Switches
-8x DSA Keycaps
-4x WS2812B LEDs
-1x XIAO RP2040
-1x Case (2 printed parts)
-4xM3x16mm screws
-4xM3x5mx4mm heatset inserts
+| Qty | Item                          |
+|-----|-------------------------------|
+| 8   | Cherry MX Switches            |
+| 8   | DSA Keycaps                   |
+| 4   | WS2812B LEDs                  |
+| 1   | XIAO RP2040                   |
+| 1   | Case (2 printed parts)        |
+| 4   | M3x16mm Screws                |
+| 4   | M3x5x4mm Heatset Inserts      |
 
 ![alt text](https://github.com/JeffMainISM/Bananaespresso/blob/main/CASE1.png)
 
