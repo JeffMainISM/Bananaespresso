@@ -29,3 +29,7 @@ Yea well, now THIS is what i call an eyesore. Pcb is very messy. But hey, i mean
 4xM3x5mx4mm heatset inserts
 
 ![alt text](https://github.com/JeffMainISM/Bananaespresso/blob/main/CASE1.png)
+
+# Schematic
+
+![alt text](https://github.com/JeffMainISM/Bananaespresso/blob/main/SCHE.png)
