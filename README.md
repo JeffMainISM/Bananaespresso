@@ -11,11 +11,11 @@ What else do you really need in life?
 
 ##  Overview
 
-![Overview 1](https://github.com/JeffMainISM/Bananaespresso/blob/main/EX1.png)
+![Overview 1](https://github.com/JeffMainISM/Bananaespresso/blob/main/Pictures/EX1.png)
 
 Not bad, right?
 
-![Overview 2](https://github.com/JeffMainISM/Bananaespresso/blob/main/EX2.png)
+![Overview 2](https://github.com/JeffMainISM/Bananaespresso/blob/main/Pictures/EX2.png)
 
 ---
 
@@ -40,7 +40,7 @@ Messy? Yes. Functional? Also yes. And that’s what matters.
 | 4   | M3×16mm screws           |
 | 4   | M3×5×4mm heat-set inserts|
 
-![Case](https://github.com/JeffMainISM/Bananaespresso/blob/main/CASE1.png)
+![Case](https://github.com/JeffMainISM/Bananaespresso/blob/main/Pictures/CASE1.png)
 
 ---
 
@@ -48,6 +48,6 @@ Messy? Yes. Functional? Also yes. And that’s what matters.
 
 A simple, minimal schematic — but fairly clean for what it is.
 
-![Schematic](https://github.com/JeffMainISM/Bananaespresso/blob/main/SCHE.png)
+![Schematic](https://github.com/JeffMainISM/Bananaespresso/blob/main/Pictures/SCHE.png)
 
 ---
